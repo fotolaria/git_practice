@@ -1,1 +1,2 @@
 Hi there new file
+This was added after the add
